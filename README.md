@@ -1,1 +1,1 @@
-So here are the solutions I have coded for the problems on GeeksforGeeks platform
+So here are the solutions I've coded for problems on the GeeksforGeeks platform. Programming language used is CPP
